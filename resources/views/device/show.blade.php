@@ -100,6 +100,9 @@
                                 },
                                 lineWidth: 1
                             },
+			    credits: {  
+          			enabled:false  
+			    },  
                             series: [{
                                 type: 'column',
                                 colorByPoint: true,
